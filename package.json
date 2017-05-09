@@ -1,0 +1,12 @@
+{
+  "name": "499-Project-Website",
+  "preferGlobal": true,
+  "version": "0.0.1",
+  "author": "Brett Blashko <blashko.brett@gmail.com>",
+  "description": "UVic ELEC/SENG/CENG/BME 499 Project Course Website",
+  "dependencies": {
+    "body-parser": "~1.9.3",
+    "express": "^4.12.3",
+    "morgan": "^1.3.2"
+  }
+}

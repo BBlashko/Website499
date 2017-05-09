@@ -1,0 +1,10 @@
+/* Other styles */
+@import url('css/footer.css');
+@import url('css/navbar.css');
+@import url('css/home.css');
+@import url('css/canAssist.css');
+@import url('css/contact.css');
+@import url('css/overview.css');
+@import url('css/team.css');
+@import url('css/timeline.css');
+@font-face 		{ font-family: "LeagueGothic"; src: url("fonts/LeagueGothic.otf") format("opentype"); };

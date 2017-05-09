@@ -1,0 +1,8 @@
+header .navbar    {
+  border-radius: 0px;
+  background-color: black;
+}
+
+ul .nav-right {
+  float: right;
+}
