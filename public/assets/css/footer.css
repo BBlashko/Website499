@@ -9,3 +9,8 @@
   color: black;
   padding: 0 10px;
 }
+
+.footer hr {
+  width: 90%;
+  color: grey;
+}

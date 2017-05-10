@@ -2,7 +2,6 @@ p  {
   color: black;
   font-size: 20px;
   line-height: 2em;
-  text-indent: 50px;
 }
 
 h1  {
@@ -16,7 +15,7 @@ h1  {
 .bannerImage {
   text-align: center;
   width: 100%;
-  margin-right: auto;
-  margin-left: auto;
+  margin: 0px 0px 0px 0px;
   height: auto;
+  display: block;
 }
